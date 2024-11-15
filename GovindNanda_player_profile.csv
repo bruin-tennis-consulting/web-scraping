@@ -1,0 +1,243 @@
+Date,Round,Player 1,Player 2,Score,Tournament,1st_serve_percentage_player1,1st_serve_percentage_player2,1st_serve_points_won_player1,1st_serve_points_won_player2,2nd_serve_points_won_player1,2nd_serve_points_won_player2,break_points_won_player1,break_points_won_player2,total_return_points_won_player1,total_return_points_won_player2,total_points_won_player1,total_points_won_player2,double_faults_player1,double_faults_player2,aces_player1,aces_player2
+2024-06-12,1st round,Liam Draxl,Govind Nanda,"6-1, 6-3",M25 Wichita,33/44,29/47,22/33,14/29,7/11,6/18,6/8,2/3,27/47,15/44,56/91,35/91,0,1,1,3
+2024-06-19,1st round,Govind Nanda,Jerry Roddick,"4-6, 6-4, 6-3",M25 Tulsa,60/98,53/88,40/60,29/53,16/38,17/35,7/13,5/11,42/88,42/98,98/186,88/186,2,5,11,6
+2024-06-20,2nd round,Govind Nanda,Bruno Kuzuhara,"7-65, 6-2",M25 Tulsa,56/82,68/83,39/56,41/68,13/26,6/15,3/5,1/7,36/83,30/82,88/165,77/165,1,2,5,1
+2024-06-21,1/4,Bernard Tomic,Govind Nanda,"6-3, 6-1",M25 Tulsa,33/70,28/48,27/33,16/28,16/37,8/20,5/7,1/10,24/48,27/70,67/118,51/118,2,1,7,0
+2024-07-01,q 1,Govind Nanda,Abraham Asaba,"6-1, 6-3",M15 Lakewood,,,,,,,,,,,,,,,,
+2024-07-02,qual.,Govind Nanda,Jelani Sarr,"6-4, 7-65",M15 Lakewood,,,,,,,,,,,,,,,,
+2024-07-03,1st round,Govind Nanda,Alexander Petrov,"4-6, 6-0, 6-1",M15 Lakewood,38/61,57/88,28/38,26/57,11/23,13/31,8/13,3/10,49/88,22/61,88/149,61/149,0,7,4,3
+2024-07-04,2nd round,Govind Nanda,Noah Zamora,"6-2, 6-2",M15 Lakewood,47/71,37/65,31/47,18/37,12/24,13/28,5/13,1/8,34/65,28/71,77/136,59/136,4,1,0,1
+2024-07-05,1/4,Govind Nanda,Jack Anthrop,"6-4, 6-4",M15 Lakewood,37/55,44/63,26/37,29/44,11/18,10/19,3/7,1/1,24/63,18/55,61/118,57/118,1,1,5,1
+2024-07-06,1/2,Govind Nanda,Karue Sell,"6-4, 6-1",M15 Lakewood,27/41,39/74,24/27,22/39,8/14,18/35,,,34/74,9/41,66/115,49/115,1,3,1,3
+2024-07-07,fin,Govind Nanda,Stefan Dostanic,"6-4, 5-7, 7-5",M15 Lakewood,74/113,63/103,47/74,37/63,23/39,23/40,5/10,4/12,43/103,43/113,113/216,103/216,2,5,1,5
+2024-07-10,1st round,Govind Nanda,Alan Fernando Rubio Fierros,"6-4, 6-2",M15 Lakewood,39/61,37/60,25/39,22/37,12/22,7/23,5/10,2/6,31/60,24/61,68/121,53/121,2,5,1,0
+2024-07-11,2nd round,Govind Nanda,Arda Azkara,"6-2, 2-0,    - retired",M15 Lakewood,17/30,19/45,10/17,10/19,11/13,10/26,3/8,0/3,25/45,9/30,46/75,29/75,1,4,1,0
+2024-07-12,1/4,Govind Nanda,Kyle Kang,"4-6, 7-62, 7-67",M15 Lakewood,87/124,81/117,57/87,49/81,18/37,20/36,4/9,5/8,48/117,49/124,123/241,118/241,5,1,1,1
+2024-07-13,1/2,Govind Nanda,Karl Lee,"2-6, 7-5, 6-2",M15 Lakewood,71/116,51/83,40/71,24/51,20/45,17/32,7/11,6/21,42/83,56/116,102/199,97/199,2,1,2,2
+2024-07-14,fin,Learner Tien,Govind Nanda,"6-3, 6-3",M15 Lakewood,38/59,36/62,29/38,19/36,11/21,13/26,4/8,1/4,30/62,19/59,70/121,51/121,0,1,2,1
+2024-07-21,q 1,Tung-Lin Wu,Govind Nanda,"6-2, 6-4",Chicago Challenger,35/60,35/52,22/35,24/35,17/25,4/17,4/6,1/4,24/52,21/60,63/112,49/112,4,3,2,4
+2024-07-29,q 1,Rodrigo Pacheco Mendez,Govind Nanda,"6-0, 6-3",Lexington Challenger,24/48,33/54,20/24,19/33,15/24,7/21,4/4,0/3,28/54,13/48,63/102,39/102,5,1,0,0
+2024-08-06,1st round,Tyler Stice,Govind Nanda,"6-4, 6-4",M25 Southaven,45/75,43/73,28/45,25/43,14/30,9/30,6/12,4/11,39/73,33/75,81/148,67/148,2,1,0,1
+2024-09-10,1st round,Kaylan Bigun,Govind Nanda,"6-4, 6-4",Las Vegas,26/52,48/75,20/26,32/48,18/26,11/27,3/12,1/2,32/75,14/52,70/127,57/127,4,3,2,2
+2024-09-15,q 1,Jack Pinnington Jones,Govind Nanda,"6-1, 2-6, 6-2",Columbus Challenger,48/85,58/96,37/48,33/58,14/37,20/38,4/14,2/7,43/96,34/85,94/181,87/181,6,0,5,4
+2024-09-22,q 1,Govind Nanda,Cannon Kingsley,"6-3, 6-3",Charleston Challenger,28/56,31/56,18/28,21/31,16/28,6/25,5/8,2/3,29/56,22/56,63/112,49/112,0,2,2,7
+2024-09-23,qual.,Govind Nanda,Ryan Peniston,"6-4, 6-4",Charleston Challenger,34/53,34/64,19/34,22/34,10/19,8/30,7/13,5/6,34/64,24/53,63/117,54/117,0,4,2,2
+2024-09-24,1st round,Ernesto Escobedo,Govind Nanda,"6-2, 6-4",Charleston Challenger,40/67,52/80,28/40,32/52,17/27,11/28,3/8,0/2,37/80,22/67,82/147,65/147,2,2,9,4
+2024-09-29,q 1,Govind Nanda,Bor Artnak,"6-4, 6-2",Tiburon Challenger,44/70,37/60,29/44,22/37,13/26,7/23,5/8,2/9,31/60,28/70,73/130,57/130,6,3,4,1
+2024-09-30,qual.,Govind Nanda,Patrick Zahraj,"6-4, 3-1,    - retired",Tiburon Challenger,22/39,29/48,17/22,18/29,10/17,8/19,3/5,1/1,22/48,12/39,49/87,38/87,1,1,1,0
+2024-10-01,1st round,Learner Tien,Govind Nanda,"7-67, 6-1",Tiburon Challenger,38/70,31/62,30/38,21/31,16/32,15/31,3/5,1/3,26/62,24/70,72/132,60/132,4,2,6,2
+2024-10-06,q 1,Keegan Smith,Govind Nanda,"6-4, 5-7, 7-65",Fairfield Challenger,80/118,64/104,48/80,50/64,26/38,22/40,3/6,3/9,32/104,44/118,106/222,116/222,2,4,11,2
+2024-10-13,q 1,Govind Nanda,Collin Altamirano,"7-61, 6-2",Calgary Challenger,26/58,25/67,21/26,16/25,22/32,18/42,4/6,2/6,33/67,15/58,76/125,49/125,2,6,0,3
+2024-10-14,qual.,Govind Nanda,Patrick Zahraj,"7-5, 6-0",Calgary Challenger,32/45,30/53,27/32,22/30,7/13,2/23,5/8,1/1,29/53,11/45,63/98,35/98,0,9,2,6
+2024-10-15,1st round,Govind Nanda,Tim Handel,"6-4, 6-2",Calgary Challenger,26/51,37/59,21/26,23/37,15/25,8/22,4/8,1/2,28/59,15/51,64/110,46/110,4,6,4,1
+2024-10-17,2nd round,Govind Nanda,James Kent Trotter,"3-6, 6-4, 6-2",Calgary Challenger,39/64,53/91,25/39,36/53,16/25,17/38,5/11,3/3,38/91,23/64,79/155,76/155,2,7,1,9
+2024-10-18,1/4,Govind Nanda,Maks Kasnikowski,"7-65, 6-75, 7-5",Calgary Challenger,72/127,66/118,50/72,41/66,27/55,31/52,5/7,4/12,46/118,50/127,123/245,122/245,5,2,6,6
+2024-10-19,1/2,Govind Nanda,Liam Draxl,"6-2, 6-4",Calgary Challenger,27/58,33/51,22/27,19/33,14/31,7/18,5/10,2/5,25/51,22/58,61/109,48/109,1,4,3,2
+2024-10-20,fin,Murphy Cassone,Govind Nanda,"4-6, 6-3, 6-4",Calgary Challenger,53/88,47/87,37/53,35/47,18/35,16/40,5/9,4/9,36/87,33/88,91/175,84/175,3,1,5,5
+2024-10-22,1st round,Govind Nanda,Nishesh Basavareddy,"6-4, 6-4",Sioux Falls,37/66,33/62,22/37,22/33,21/29,16/29,3/5,1/1,24/62,23/66,67/128,61/128,1,4,2,4
+2024-10-23,2nd round,Ozan Baris,Govind Nanda,"7-64, 6-4",Sioux Falls,44/70,59/99,26/44,36/59,14/26,14/40,4/11,3/6,49/99,30/70,89/169,80/169,0,3,0,1
+2024-10-30,1st round,Chris Rodesch,Govind Nanda,"6-4, 6-3",Charlottesville Challenger,45/67,38/59,30/45,22/38,9/22,8/21,5/13,3/6,29/59,28/67,68/126,58/126,5,4,0,0
+2024-11-03,q 1,Stefan Dostanic,Govind Nanda,"4-6, 7-66, 6-2",Knoxville Challenger,77/120,54/85,49/77,35/54,22/43,17/31,4/6,3/15,33/85,49/120,104/205,101/205,4,3,7,1
+2024-11-13,1st round,Govind Nanda,William Mroz Mroz,"6-4, 6-4",Champaign Challenger,,,,,,,,,,,,,,,,
+2024-11-15,2nd round,Govind Nanda,Christopher Eubanks,"3-6, 6-2, 6-3",Champaign Challenger,55/79,59/95,40/55,43/59,14/24,10/36,4/13,2/7,42/95,25/79,96/174,78/174,2,8,7,12
+2023-01-06,1st round,Learner Tien,Govind Nanda,"6-1, 6-75, 11-9",M25 Malibu,,,,,,,,,,,,,,,,
+2023-01-25,1st round,Govind Nanda,Huzaifa Abdul Rehman,"6-4, 6-4",M25 Wesley,53/82,52/82,33/53,31/52,16/29,13/30,4/15,2/14,38/82,33/82,87/164,77/164,1,3,1,3
+2023-01-26,2nd round,Matthew Segura,Govind Nanda,"2-6, 7-63, 6-1",M25 Wesley,57/90,56/90,36/57,31/56,14/33,14/34,6/11,5/11,45/90,40/90,95/180,85/180,6,5,0,2
+2023-04-17,qual.,Federico Agustin Gomez,Govind Nanda,"6-1, 6-4",Tallahassee Challenger,29/62,34/48,26/29,20/34,14/33,4/14,4/8,1/4,24/48,22/62,64/110,46/110,6,1,4,0
+2023-04-17,q 1,Govind Nanda,Aidan Kim,"6-4, 6-2",Tallahassee Challenger,43/73,37/83,33/43,23/37,15/30,21/46,3/6,0/7,39/83,25/73,87/156,69/156,1,9,2,0
+2023-04-23,q 1,Govind Nanda,Isaiah Strode,"2-6, 7-62, 6-3",Savannah Challenger,64/100,43/88,39/64,30/43,20/36,22/45,4/9,5/12,36/88,41/100,95/188,93/188,0,5,1,4
+2023-04-24,qual.,Kyrian Jacquet,Govind Nanda,"7-5, 6-1",Savannah Challenger,30/59,30/53,19/30,16/30,16/29,10/23,5/7,2/4,27/53,24/59,62/112,50/112,5,2,1,2
+2023-05-02,1st round,Govind Nanda,Thomas Brown,"7-64, 2-6, 6-3",M15 Orange,61/100,64/84,41/61,45/64,22/39,11/20,2/3,3/8,28/84,37/100,91/184,93/184,0,4,10,1
+2023-05-04,2nd round,Govind Nanda,Huzaifa Abdul Rehman,"6-3, 6-2",M15 Orange,31/50,27/48,22/31,15/27,12/19,9/21,5/9,2/3,24/48,16/50,58/98,40/98,0,4,4,0
+2023-05-05,1/4,Roberto Cid Subervi,Govind Nanda,"6-2, 6-3",M15 Orange,35/53,42/69,20/35,16/42,9/18,14/27,7/14,3/6,39/69,24/53,68/122,54/122,1,0,2,0
+2023-06-07,1st round,Alexander Kotzen,Govind Nanda,"7-5, 6-1",M15 San,33/50,39/58,25/33,23/39,13/17,9/19,4/9,0/1,26/58,12/50,64/108,44/108,0,2,2,1
+2022-01-23,q 1,Alex Rybakov,Govind Nanda,"5-7, 6-2, 6-4",Columbus Challenger,64/76,56/96,51/64,40/56,6/12,20/40,4/13,2/4,36/96,19/76,93/172,79/172,2,1,7,5
+2022-01-30,q 1,Rinky Hijikata,Govind Nanda,"7-5, 6-3",Cleveland Challenger,35/72,34/54,27/35,23/34,20/37,10/20,3/5,1/4,21/54,25/72,68/126,58/126,2,2,5,4
+2022-02-23,1st round,Quentin Folliot,Govind Nanda,"6-1, 4-6, 6-4",M25 Santo,45/84,61/84,33/45,36/61,18/39,7/23,6/9,4/8,41/84,33/84,92/168,76/168,3,4,1,0
+2022-03-02,1st round,Govind Nanda,Alex Rybakov,"6-74, 3-2,    - retired",M25 Santo,35/56,37/50,23/35,29/37,13/21,4/13,2/3,2/6,17/50,20/56,53/106,53/106,1,3,6,2
+2022-03-03,2nd round,Govind Nanda,Mark Whitehouse,"6-2, 7-5",M25 Santo,39/50,42/63,31/39,26/42,6/11,10/21,4/8,1/1,27/63,13/50,64/113,49/113,1,3,2,7
+2022-03-04,1/4,Govind Nanda,Oliver Crawford,"6-4, 6-2",M25 Santo,42/57,35/52,32/42,21/35,9/15,8/17,3/6,0/3,23/52,16/57,64/109,45/109,0,1,4,1
+2022-03-05,1/2,Geoffrey Blancaneaux,Govind Nanda,"6-2, 4-6, 6-4",M25 Santo,55/86,62/95,32/55,37/62,22/31,16/33,5/8,3/11,42/95,32/86,96/181,85/181,2,1,4,0
+2022-03-23,1st round,Govind Nanda,Keenan Mayo,"6-1, 6-3",M25 Calabasas,23/47,27/47,20/23,15/27,15/24,8/20,4/4,0/4,24/47,12/47,59/94,35/94,2,4,0,3
+2022-03-24,2nd round,Govind Nanda,Jaimee Floyd Angele,"6-4, 7-65",M25 Calabasas,46/71,48/69,37/46,36/48,16/25,12/21,1/4,0/2,21/69,18/71,74/140,66/140,0,3,1,5
+2022-03-25,1/4,Daniel Cukierman,Govind Nanda,"3-6, 6-2, 6-4",M25 Calabasas,79/118,51/89,41/79,30/51,17/39,12/38,8/14,7/21,47/89,60/118,105/207,102/207,2,6,0,2
+2022-04-11,1st round,Tomas Barrios Vera,Govind Nanda,"6-2, 6-1",Sarasota Challenger,24/43,37/53,18/24,22/37,12/19,4/16,5/9,0/1,27/53,13/43,57/96,39/96,1,2,1,3
+2022-04-20,1st round,Govind Nanda,Isaiah Strode,"6-3, 6-4",M15 Orange,29/48,41/58,26/29,24/41,11/19,8/17,3/8,1/1,26/58,11/48,63/106,43/106,2,1,6,1
+2022-04-21,2nd round,Govind Nanda,Alejandro Hoyos,"6-4, 6-1",M15 Orange,25/38,39/55,23/25,17/39,9/13,10/16,,,28/55,6/38,60/93,33/93,,,5,0
+2022-04-22,1/4,Learner Tien,Govind Nanda,"6-3, 6-4",M15 Orange,38/66,43/63,23/38,28/43,17/28,6/20,4/10,2/6,29/63,26/66,69/129,60/129,1,1,2,2
+2022-04-24,q 1,Govind Nanda,Osgar O'Hoisin,"6-2, 6-4",Savannah Challenger,47/67,39/64,34/47,22/39,8/20,11/25,4/10,1/5,31/64,25/67,73/131,58/131,1,4,3,1
+2022-04-25,qual.,Govind Nanda,Joao Lucas Reis Da Silva,"6-3, 6-2",Savannah Challenger,42/63,35/50,31/42,18/35,9/21,7/15,4/8,1/6,25/50,23/63,65/113,48/113,2,1,1,1
+2022-04-26,1st round,Govind Nanda,Tomas Barrios Vera,"6-2, 3-6, 7-65",Savannah Challenger,73/105,54/95,43/73,32/54,16/32,25/41,5/9,4/12,38/95,46/105,97/200,103/200,1,1,5,6
+2022-04-28,2nd round,Zhizhen Zhang,Govind Nanda,"6-4, 6-3",Savannah Challenger,45/69,50/74,31/45,30/50,13/24,8/24,4/9,2/9,36/74,25/69,80/143,63/143,1,2,4,3
+2022-05-29,q 1,Nick Chappell,Govind Nanda,"6-1, 4-6, 6-2",Little Rock,50/90,50/88,32/50,32/50,24/40,17/38,5/11,2/11,39/88,34/90,95/178,83/178,5,4,3,0
+2022-06-05,q 1,Roman Andres Burruchaga,Govind Nanda,"1-6, 6-2, 6-1",Orlando Challenger,60/89,31/64,39/60,12/31,8/29,15/33,7/11,5/14,37/64,42/89,84/153,69/153,6,2,2,0
+2022-06-15,1st round,Liam Draxl,Govind Nanda,"6-4, 6-4",M25 Wichita,40/58,37/61,27/40,27/37,11/18,9/24,4/5,2/4,25/61,20/58,63/119,56/119,2,1,2,3
+2022-06-22,1st round,Govind Nanda,George Goldhoff,"6-2, 6-1",M25 Tulsa,,,,,,,,,,,,,,,,
+2022-06-23,2nd round,Govind Nanda,Joshua Sheehy,"6-3, 6-3",M25 Tulsa,35/59,38/68,22/35,20/38,16/24,13/30,5/9,2/3,35/68,21/59,73/127,54/127,0,7,3,0
+2022-06-24,1/4,Govind Nanda,Hunter Heck,"6-2, 6-1",M25 Tulsa,27/46,31/53,18/27,15/31,13/19,10/22,5/9,0/2,28/53,15/46,59/99,40/99,2,2,2,0
+2022-06-25,1/2,Govind Nanda,Andres Martin,"6-4, 6-3",M25 Tulsa,53/83,51/79,36/53,33/51,15/30,12/28,3/13,0/10,34/79,32/83,85/162,77/162,1,3,1,1
+2022-06-26,fin,Govind Nanda,Stefan Dostanic,"6-3, 7-5",M25 Tulsa,44/71,35/53,25/44,19/35,16/27,10/18,5/6,3/9,24/53,30/71,65/124,59/124,,,0,1
+2022-06-29,1st round,John Mcnally,Govind Nanda,"6-4, 6-3",M25 Dallas,31/52,30/61,23/31,21/30,12/21,15/31,4/7,1/3,25/61,17/52,60/113,53/113,3,1,5,3
+2022-07-12,1st round,Ben Shelton,Govind Nanda,"4-6, 6-2, 6-3",Rome Challenger,56/95,46/79,38/56,32/46,26/39,18/33,3/5,1/11,29/79,31/95,93/174,81/174,2,1,2,2
+2022-07-17,q 1,Aidan Mchugh,Govind Nanda,"7-65, 7-63",Indianapolis Challenger,59/83,64/89,46/59,49/64,13/24,10/25,1/7,1/4,30/89,24/83,89/172,83/172,2,1,8,2
+2022-07-25,qual.,Govind Nanda,Benjamin Sigouin,"6-1, 6-1",Winnipeg Challenger,23/38,23/43,18/23,10/23,10/15,7/20,,,26/43,10/38,54/81,27/81,1,1,5,1
+2022-07-26,1st round,Govind Nanda,Zachary Svajda,"3-6, 6-2, 6-3",Winnipeg Challenger,60/84,45/77,37/60,28/45,15/24,13/32,5/6,3/7,36/77,32/84,88/161,73/161,0,3,5,3
+2022-07-28,2nd round,Liam Broady,Govind Nanda,"6-3, 6-3",Winnipeg Challenger,31/51,37/62,21/31,21/37,10/20,9/25,5/13,2/3,32/62,20/51,63/113,50/113,1,2,1,0
+2022-08-01,1st round,Govind Nanda,Dalibor Svrcina,"7-68, 6-1",Lexington Challenger,47/69,37/68,28/47,23/37,12/22,8/31,6/9,3/7,37/68,29/69,77/137,60/137,1,7,0,1
+2022-08-03,2nd round,Govind Nanda,Brandon Holt,"6-71, 6-4, 6-2",Lexington Challenger,66/94,61/96,40/66,36/61,14/28,11/35,9/11,6/12,49/96,40/94,103/190,87/190,0,3,6,4
+2022-08-05,1/4,Enzo Couacaud,Govind Nanda,"3-6, 6-1, 6-2",Lexington Challenger,54/90,52/74,35/54,28/52,12/36,4/22,8/15,5/15,42/74,43/90,89/164,75/164,2,3,1,6
+2022-08-09,1st round,Mikhail Kukushkin,Govind Nanda,"3-6, 6-4, 6-3",Chicago Challenger,52/84,48/83,35/52,31/48,18/32,20/35,4/9,3/5,32/83,31/84,85/167,82/167,4,5,4,0
+2022-08-14,q 1,Govind Nanda,Benjamin Sigouin,"7-5, 3-0,    - retired",Vancouver Challenger,27/47,29/60,20/27,17/29,10/20,13/31,4/6,1/3,30/60,17/47,60/107,47/107,0,3,4,0
+2022-08-15,qual.,Govind Nanda,Paul Jubb,"1-6, 7-5, 7-64",Vancouver Challenger,63/100,105/155,40/63,65/105,16/37,19/50,4/16,5/11,71/155,44/100,127/255,128/255,2,15,4,4
+2022-08-16,1st round,Marc-Andrea Huesler,Govind Nanda,"6-2, 4-6, 7-5",Vancouver Challenger,45/89,53/85,36/45,35/53,21/44,15/32,5/7,3/5,35/85,32/89,92/174,82/174,7,0,12,6
+2022-08-24,q 1,Govind Nanda,Andrea Arnaboldi,"4-6, 7-5, 6-3",New York,60/101,63/112,43/60,40/63,19/41,23/49,5/10,3/10,49/112,39/101,111/213,102/213,3,6,8,1
+2022-08-25,q 2,Nuno Borges,Govind Nanda,"6-4, 6-4",New York,37/57,38/62,24/37,24/38,13/20,11/24,4/12,2/2,27/62,20/57,64/119,55/119,2,0,1,0
+2022-09-12,1st round,Govind Nanda,Rinky Hijikata,"6-2, 6-3",Cary Challenger,40/63,23/54,27/40,12/23,15/23,16/31,3/8,0/2,26/54,21/63,68/117,49/117,2,1,1,1
+2022-09-14,2nd round,Facundo Mena,Govind Nanda,"6-3, 6-3",Cary Challenger,25/49,55/76,22/25,30/55,12/24,7/21,5/20,2/5,39/76,15/49,73/125,52/125,2,1,6,3
+2022-09-17,q 1,Govind Nanda,Juan Pablo Ficovich,"6-3, 6-1",San Diego,42/50,40/58,31/42,21/40,4/8,6/18,5/13,1/6,31/58,15/50,66/108,42/108,0,3,1,1
+2022-09-18,qual.,Mitchell Krueger,Govind Nanda,"6-4, 5-7, 7-5",San Diego,87/136,72/106,48/87,49/72,28/49,10/34,7/16,6/20,47/106,60/136,123/242,119/242,2,0,3,3
+2022-09-25,q 1,Govind Nanda,Ryan Harrison,"7-5, 2-2,    - retired",Charleston Challenger,33/47,41/61,22/33,25/41,8/14,6/20,3/8,2/3,30/61,17/47,60/108,48/108,2,6,0,3
+2022-09-26,qual.,Strong Kirchheimer,Govind Nanda,"6-1, 6-1",Charleston Challenger,27/40,36/54,18/27,14/36,9/13,7/18,6/11,1/2,33/54,13/40,60/94,34/94,0,1,3,1
+2022-09-27,1st round,Govind Nanda,Emilio Nava,"5-7, 6-2, 7-5",Charleston Challenger,60/89,64/101,38/60,36/64,18/29,19/37,7/15,5/10,46/101,33/89,102/190,88/190,2,2,7,5
+2022-09-28,2nd round,Donald Young,Govind Nanda,"1-6, 6-2, 6-2",Charleston Challenger,64/96,40/65,50/64,28/40,7/32,12/25,4/7,2/14,25/65,39/96,82/161,79/161,8,1,1,4
+2022-10-04,1st round,Paul Jubb,Govind Nanda,"7-5, 4-6, 6-3",Tiburon Challenger,45/76,77/112,30/45,45/77,15/31,17/35,7/12,5/6,50/112,31/76,95/188,93/188,1,1,4,2
+2022-10-10,1st round,Christian Langmo,Govind Nanda,"6-4, 6-4",Fairfield Challenger,40/63,34/56,27/40,19/34,9/23,10/22,5/6,3/9,27/56,27/63,63/119,56/119,2,2,6,4
+2022-10-25,1st round,Govind Nanda,Nicolas Mejia,"7-61, 6-4",Las Vegas,41/69,42/77,31/41,26/42,14/28,18/35,3/8,2/8,33/77,24/69,78/146,68/146,1,3,1,4
+2022-10-27,2nd round,Alexis Galarneau,Govind Nanda,"6-1, 2-1,    - retired",Las Vegas,14/28,26/34,10/14,10/26,8/14,4/8,4/8,1/2,20/34,10/28,38/62,24/62,1,0,1,2
+2021-02-15,q 1,Govind Nanda,Ronan Jachuck,"6-3, 6-1",M25 Naples,,,,,,,,,,,,,,,,
+2021-02-16,qual.,Govind Nanda,Evan Zhu,"2-6, 6-3, 10-8",M25 Naples,51/81,44/57,30/51,27/44,16/30,6/13,2/6,3/12,24/57,35/81,70/138,68/138,2,5,0,4
+2021-02-17,1st round,Clement Tabur,Govind Nanda,"6-3, 6-4",M25 Naples,42/67,45/65,26/42,27/45,16/25,7/20,4/12,2/10,31/65,25/67,73/132,59/132,0,4,4,0
+2021-02-24,1st round,Mitchell Krueger,Govind Nanda,"6-4, 6-3",M25 Naples,37/55,37/63,22/37,17/37,13/18,14/26,5/7,3/8,32/63,20/55,67/118,51/118,2,2,1,0
+2021-06-09,1st round,Govind Nanda,Rio Noguchi,"3-6, 6-4, 6-3",M25 Wichita,64/95,77/109,39/64,44/77,18/31,17/32,4/18,3/7,48/109,38/95,105/204,99/204,3,8,4,2
+2021-06-10,2nd round,Govind Nanda,John Mcnally,"6-76, 7-67, 6-3",M25 Wichita,75/110,74/132,59/75,53/74,16/35,26/58,3/12,1/4,53/132,35/110,128/242,114/242,2,9,13,5
+2021-06-11,1/4,Govind Nanda,Matias Soto,"6-1, 6-1",M25 Wichita,28/42,21/39,22/28,9/21,6/14,3/18,6/10,1/4,27/39,14/42,55/81,26/81,2,5,5,0
+2021-06-12,1/2,Govind Nanda,Sho Shimabukuro,"7-61, 6-4",M25 Wichita,39/73,29/67,29/39,20/29,15/34,13/38,5/9,4/8,34/67,29/73,78/140,62/140,0,4,2,3
+2021-06-13,fin,Govind Nanda,Patrick Kypson,"7-66, 6-2",M25 Wichita,35/69,56/73,30/35,36/56,17/34,9/17,3/9,1/1,28/73,22/69,75/142,67/142,2,1,5,5
+2021-06-16,1st round,Govind Nanda,Edan Leshem,"4-6, 7-66, 4-0,    - retired",M25 Tulsa,40/85,48/90,27/40,28/48,19/45,16/42,6/12,5/8,46/90,39/85,92/175,83/175,3,4,4,4
+2021-06-17,2nd round,Govind Nanda,Michael Redlicki,"3-6, 6-2, 3-0,    - retired",M25 Tulsa,36/64,51/70,26/36,28/51,16/28,11/19,3/9,1/6,31/70,22/64,73/134,61/134,2,2,8,1
+2021-06-18,1/4,Genaro Alberto Olivieri,Govind Nanda,"4-0,    - retired",M25 Tulsa,13/15,16/26,9/13,8/16,1/2,3/10,2/6,0/1,15/26,5/15,25/41,16/41,0,1,3,1
+2021-07-19,1st round,Govind Nanda,Roberto Quiroz,"6-2, 6-3",Cary Challenger,46/67,43/62,36/46,22/43,9/21,11/19,3/8,0/5,29/62,22/67,74/129,55/129,2,1,0,3
+2021-07-21,2nd round,Govind Nanda,Brayden Schnur,"3-6, 7-5, 7-5",Cary Challenger,61/100,61/96,41/61,44/61,21/39,15/35,5/8,4/6,37/96,38/100,99/196,97/196,5,8,4,18
+2021-07-23,1/4,Govind Nanda,Christian Harrison,"2-6, 7-62, 6-3",Cary Challenger,63/96,55/87,39/63,31/55,16/33,20/32,5/10,5/13,36/87,41/96,91/183,92/183,3,2,1,6
+2021-07-24,1/2,Mitchell Krueger,Govind Nanda,"6-3, 6-2",Cary Challenger,36/53,41/66,26/36,25/41,12/17,11/25,3/7,0/2,30/66,15/53,68/119,51/119,0,1,3,3
+2021-07-27,1st round,Ernesto Escobedo,Govind Nanda,"6-1, 6-4",Lexington Challenger,35/48,22/45,30/35,14/22,8/13,11/23,,,20/45,10/48,58/93,35/93,0,1,6,5
+2021-08-04,1st round,Paul Jubb,Govind Nanda,"4-6, 6-3, 6-2",M25 Decatur,40/73,50/98,25/40,33/50,27/33,24/48,4/13,2/5,41/98,21/73,93/171,78/171,2,6,4,6
+2021-08-25,q 1,Sebastian Baez,Govind Nanda,"6-3, 7-5",New York,41/61,46/66,28/41,23/46,10/20,9/20,6/11,3/9,34/66,23/61,72/127,55/127,4,2,2,3
+2021-09-08,1st round,Govind Nanda,Renta Tokuda,"6-2, 6-1",M25 Sintra,35/45,33/47,29/35,15/33,3/10,5/14,5/8,0/3,27/47,13/45,59/92,33/92,3,1,6,0
+2021-09-09,2nd round,Govind Nanda,Luca Potenza,"3-6, 6-1, 6-3",M25 Sintra,54/80,58/83,31/54,31/58,15/26,10/25,7/12,5/8,42/83,34/80,88/163,75/163,0,3,5,2
+2021-09-10,1/4,Paul Jubb,Govind Nanda,"6-3, 3-6, 6-2",M25 Sintra,47/85,62/82,32/47,32/62,15/38,8/20,7/14,5/10,42/82,38/85,89/167,78/167,4,1,2,5
+2021-09-15,1st round,Govind Nanda,Luca Potenza,"7-5, 6-75, 7-5",M25 Sintra,79/113,83/122,58/79,50/83,17/34,24/39,5/11,3/7,48/122,38/113,123/235,112/235,2,5,16,1
+2021-09-16,2nd round,Govind Nanda,John Echeverria,"6-3, 3-6, 6-3",M25 Sintra,59/90,41/98,38/59,26/41,17/31,30/57,4/16,3/11,42/98,35/90,97/188,91/188,1,6,0,4
+2021-09-17,1/4,Adria Soriano Barrera,Govind Nanda,"6-0, 6-3",M25 Sintra,39/58,33/52,29/39,21/33,10/19,4/19,4/8,0/5,27/52,19/58,66/110,44/110,2,1,1,1
+2021-10-05,q 1,Govind Nanda,Mitchell Krueger,"0-6, 7-610, 7-5",Indian Wells,74/113,69/118,48/74,46/69,14/39,23/49,3/10,5/11,49/118,51/113,111/231,120/231,3,7,10,8
+2021-10-06,qual.,Cem Ilkel,Govind Nanda,"6-1, 2-6, 6-4",Indian Wells,55/103,42/76,40/55,24/42,17/48,16/34,5/7,4/16,36/76,46/103,93/179,86/179,6,3,5,0
+2021-10-26,1st round,Govind Nanda,Aidan Mayo,"6-2, 6-2",M25 Calabasas,40/60,33/67,27/40,18/33,15/20,16/34,4/12,0/5,33/67,18/60,75/127,52/127,0,2,1,2
+2021-10-28,2nd round,Govind Nanda,Toby Alex Kodat,"1-6, 7-5, 6-3",M25 Calabasas,72/109,58/100,38/72,27/58,18/37,23/42,7/18,7/21,50/100,53/109,106/209,103/209,1,5,5,1
+2021-10-29,1/4,Govind Nanda,Gage Brymer,"6-76, 7-5, 6-0",M25 Calabasas,58/101,66/93,36/58,40/66,21/43,8/27,8/15,4/9,45/93,44/101,102/194,92/194,2,5,4,1
+2021-10-30,1/2,Tristan Boyer,Govind Nanda,"7-5, 4-6, 6-3",M25 Calabasas,65/110,68/93,41/65,43/68,24/45,12/25,5/14,4/7,38/93,45/110,103/203,100/203,4,1,,
+2021-11-07,q 1,Gijs Brouwer,Govind Nanda,"6-3, 7-66",Knoxville Challenger,47/76,42/65,33/47,27/42,17/29,11/23,3/5,2/4,27/65,26/76,77/141,64/141,1,0,9,3
+2021-11-14,q 1,Ben Shelton,Govind Nanda,"6-4, 6-4",Champaign Challenger,45/62,38/62,35/45,26/38,7/17,10/24,3/8,1/7,26/62,20/62,68/124,56/124,3,2,4,2
+2021-11-21,q 1,Govind Nanda,Lance Amaury Lage Castelan,"6-0, 6-0",Puerto Vallarta,20/31,24/41,18/20,9/24,7/11,5/17,6/9,0/2,27/41,6/31,52/72,20/72,2,5,1,0
+2021-11-22,qual.,Govind Nanda,Jean Thirouin,"7-64, 6-3",Puerto Vallarta,45/74,43/74,28/45,23/43,15/29,14/31,5/9,3/9,37/74,31/74,80/148,68/148,1,2,2,3
+2021-11-23,1st round,Govind Nanda,Jc Aragone,"6-2, 6-0",Puerto Vallarta,27/42,20/49,22/27,12/20,9/15,9/29,5/12,0/3,28/49,11/42,59/91,32/91,1,3,2,2
+2021-11-25,2nd round,Daniel Altmaier,Govind Nanda,"6-3, 6-3",Puerto Vallarta,33/60,35/64,26/33,19/35,8/27,10/29,6/12,3/8,35/64,26/60,69/124,55/124,0,1,3,0
+2020-01-08,1st round,Alex Rybakov,Govind Nanda,"6-4, 6-4",M25 Los,46/64,31/47,23/46,22/31,16/18,5/16,4/4,2/4,20/47,25/64,59/111,52/111,0,1,3,2
+2020-01-28,1st round,Agustin Velotti,Govind Nanda,"6-4, 6-0",Newport Beach,29/50,30/51,22/29,14/30,12/21,9/21,5/9,1/5,28/51,16/50,62/101,39/101,1,0,2,0
+2020-03-03,1st round,Marc Polmans,Govind Nanda,"6-2, 6-3",Indian Wells,32/56,28/45,26/32,19/28,14/24,7/17,3/4,0/4,19/45,16/56,59/101,42/101,2,1,1,1
+2020-10-19,q 1,Alastair Gray,Govind Nanda,"6-2, 3-6, 7-0,    - retired",M15 Sharm,,,,,,,,,,,,,,,,
+2019-01-01,1st round,Govind Nanda,Michail Pervolarakis,"6-3, 6-1",M25 Los,36/52,36/56,29/36,17/36,7/16,12/20,4/9,0/4,27/56,16/52,63/108,45/108,1,2,2,1
+2019-01-03,2nd round,Govind Nanda,Alec Adamson,"6-2, 6-3",M25 Los,26/47,27/52,16/26,13/27,16/21,9/25,5/7,2/2,30/52,15/47,62/99,37/99,0,6,1,2
+2019-01-04,1/4,Emilio Gomez,Govind Nanda,"6-4, 7-66",M25 Los,57/85,44/80,36/57,26/44,12/28,17/36,4/11,3/12,37/80,37/85,85/165,80/165,1,1,1,3
+2019-01-09,1st round,Govind Nanda,Manuel Guinard,"6-3, 3-6, 6-4",M25 Tucson,42/83,48/87,30/42,31/48,20/41,20/39,5/5,4/8,36/87,33/83,86/170,84/170,6,7,4,7
+2019-01-10,2nd round,Govind Nanda,Alexander Cozbinov,"6-4, 6-3",M25 Tucson,33/66,44/65,25/33,26/44,19/33,9/21,4/5,1/9,30/65,22/66,74/131,57/131,1,1,2,3
+2019-01-11,1/4,Govind Nanda,Felix Corwin,"6-3, 7-64",M25 Tucson,35/66,43/67,27/35,29/43,22/31,16/24,,,22/67,17/66,71/133,62/133,3,3,2,7
+2019-01-12,1/2,Govind Nanda,Michail Pervolarakis,"6-3, 7-5",M25 Tucson,43/86,39/67,32/43,26/39,22/43,12/28,3/11,1/8,29/67,32/86,83/153,70/153,1,4,4,2
+2019-01-13,fin,Govind Nanda,Martin Redlicki,"4-6, 7-62, 6-0",M25 Tucson,56/98,53/82,45/56,39/53,22/42,13/29,3/5,1/8,30/82,31/98,97/180,83/180,3,5,9,4
+2019-03-18,q 1,Govind Nanda,Alec Adamson,"6-4, 6-4",M25 Calabasas,,,,,,,,,,,,,,,,
+2019-03-19,qual.,Ryan Peniston,Govind Nanda,"6-1, 6-2",M25 Calabasas,29/42,20/52,21/29,11/20,7/13,10/32,6/9,1/6,31/52,14/42,59/94,35/94,2,4,,
+2019-06-03,1st round,Harold Mayot,Govind Nanda,"6-3, 6-3",French Open,,,,,,,,,,,,,,,,
+2019-07-06,1st round,Govind Nanda,Rinky Hijikata,"6-2, 7-5",Wimbledon (juniors),,,,,,,,,,,,,,,,
+2019-07-09,2nd round,Anton Matusevich,Govind Nanda,"6-3, 6-3",Wimbledon (juniors),,,,,,,,,,,,,,,,
+2019-07-24,1st round,Govind Nanda,Alfredo Perez,"4-6, 7-62, 6-0",M25 Champaign,44/91,54/82,28/44,27/54,27/47,12/28,6/7,4/9,43/82,36/91,98/173,75/173,1,1,6,4
+2019-07-25,2nd round,Jenson Brooksby,Govind Nanda,"4-6, 7-5, 6-2",M25 Champaign,60/82,55/93,39/60,34/55,13/22,18/38,5/8,3/4,41/93,30/82,93/175,82/175,0,2,3,6
+2019-08-19,q 1,Oscar Otte,Govind Nanda,"7-64, 6-1",New York,36/68,36/67,28/36,25/36,14/32,11/31,5/8,2/4,31/67,26/68,73/135,62/135,8,4,1,5
+2019-09-03,1st round,Govind Nanda,Eric Vanshelboim,"7-5, 6-2",U.S. Open,,,,,,,,,,,,,,,,
+2019-09-04,2nd round,Peter Makk,Govind Nanda,"7-62, 6-4",U.S. Open,,,,,,,,,,,,,,,,
+2019-09-18,1st round,Ricardo Rodriguez-Pace,Govind Nanda,"6-1, 6-3",M25 Houston,,,,,,,,,,,,,,,,
+2019-09-25,1st round,Govind Nanda,Connor Farren,"6-2, 1-6, 6-4",M25 Harlingen,41/81,44/75,27/41,26/44,22/40,14/31,4/9,4/12,35/75,32/81,84/156,72/156,6,4,7,5
+2019-09-26,2nd round,Govind Nanda,Ricardo Rodriguez-Pace,"6-2, 7-5",M25 Harlingen,35/59,43/56,26/35,26/43,13/24,5/13,4/7,1/2,25/56,20/59,64/115,51/115,1,1,7,1
+2019-09-27,1/4,Govind Nanda,Jonathan Gray,"6-3, 4-6, 6-2",M25 Harlingen,64/105,47/78,45/64,27/47,19/41,16/31,5/11,3/12,35/78,41/105,99/183,84/183,3,5,7,3
+2019-09-28,1/2,Govind Nanda,Timo Stodder,"6-4, 6-2",M25 Harlingen,34/54,40/66,22/34,21/40,12/20,9/26,5/10,2/5,36/66,20/54,70/120,50/120,2,4,,
+2019-09-29,fin,Govind Nanda,Adrian Andreev,"6-4, 6-4",M25 Harlingen,38/68,38/65,22/38,27/38,18/30,6/27,5/9,3/11,32/65,28/68,72/133,61/133,0,5,1,2
+2019-10-02,1st round,Nathan Ponwith,Govind Nanda,"6-4, 4-6, 6-2",M25 Norman,39/72,54/90,30/39,36/54,17/33,13/36,6/12,4/5,41/90,25/72,88/162,74/162,8,8,4,7
+2019-10-09,1st round,Govind Nanda,Lucas Gomez,"6-1, 6-3",M25 Claremont,32/45,30/49,25/32,16/30,6/13,9/19,5/9,1/1,24/49,14/45,55/94,39/94,2,3,4,5
+2019-10-11,2nd round,Evan Song,Govind Nanda,"7-63, 2-6, 7-63",M25 Claremont,,,,,,,,,,,,,,,,
+2019-10-28,1st round,Jeff Wolf,Govind Nanda,"6-0, 6-1",Charlottesville Challenger,22/47,25/44,17/22,9/25,13/25,7/19,6/9,0/3,28/44,17/47,58/91,33/91,2,1,4,1
+2019-11-04,qual.,Andrea Vavassori,Govind Nanda,"6-2, 5-7, 6-3",Knoxville Challenger,50/87,60/101,36/50,38/60,21/37,20/41,5/13,2/7,43/101,30/87,100/188,88/188,6,1,6,3
+2019-11-11,1st round,Govind Nanda,Oliver Crawford,"6-4, 6-3",Houston Challenger,28/55,40/64,21/28,22/40,16/27,12/24,4/8,2/5,30/64,18/55,67/119,52/119,0,2,1,1
+2019-11-12,2nd round,Michael Redlicki,Govind Nanda,"6-3, 6-3",Houston Challenger,36/50,44/69,24/36,21/44,9/14,13/25,5/16,2/5,35/69,17/50,68/119,51/119,1,2,0,3
+2017-12-31,q 1,Govind Nanda,Stefan Menichella,"7-66, 6-3",USA F1,,,,,,,,,,,,,,,,
+2018-01-01,q 2,Govind Nanda,Beibit Zhukayev,"6-2, 7-5",USA F1,,,,,,,,,,,,,,,,
+2018-01-02,qual.,Patrick Kypson,Govind Nanda,"6-2, 3-6, 7-5",USA F1,65/110,45/85,43/65,29/45,23/45,21/40,5/7,3/14,35/85,44/110,101/195,94/195,2,4,2,6
+2018-01-07,q 1,Govind Nanda,Kento Perera,"4-6, 6-2, 6-1",USA F2,,,,,,,,,,,,,,,,
+2018-01-08,q 2,Alexander Lebedev,Govind Nanda,"7-5, 6-3",USA F2,,,,,,,,,,,,,,,,
+2018-03-18,q 1,Govind Nanda,Tristan Boyer,"7-63, 7-61",USA F8,,,,,,,,,,,,,,,,
+2018-03-19,q 2,Govind Nanda,Sekou Bangoura,"6-4, 6-3",USA F8,,,,,,,,,,,,,,,,
+2018-03-19,qual.,Trent Bryde,Govind Nanda,"6-2, 1-6, 6-4",USA F8,48/75,46/85,33/48,31/46,8/27,14/39,5/14,5/8,40/85,34/75,81/160,79/160,6,4,1,3
+2018-07-09,1st round,Govind Nanda,Facundo Diaz Acosta,"7-65, 6-2",Wimbledon (juniors),,,,,,,,,,,,,,,,
+2018-07-10,2nd round,Nicolas Alvarez Varona,Govind Nanda,"3-6, 6-4, 6-2",Wimbledon (juniors),,,,,,,,,,,,,,,,
+2018-07-22,q 1,Govind Nanda,Kareem Allaf,"4-6, 6-4, 6-2",USA F20,,,,,,,,,,,,,,,,
+2018-07-23,q 2,Govind Nanda,Strong Kirchheimer,"3-6, 7-63, 3-0,    - retired",USA F20,,,,,,,,,,,,,,,,
+2018-07-24,1st round,Axel Geller,Govind Nanda,"6-4, 4-6, 6-3",USA F20,54/101,50/91,39/54,37/50,22/47,19/41,4/10,2/7,35/91,40/101,96/192,96/192,8,1,1,6
+2018-07-24,qual.,Govind Nanda,Alex Kobelt,"6-2, 6-3",USA F20,37/55,19/39,25/37,15/19,13/18,9/20,3/3,0/2,15/39,17/55,53/94,41/94,2,4,1,1
+2018-07-29,q 1,Govind Nanda,Tristan Boyer,"6-75, 7-5, 6-2",USA F21,,,,,,,,,,,,,,,,
+2018-07-31,q 2,Govind Nanda,Alexander Knight,"6-75, 7-65, 6-3",USA F21,,,,,,,,,,,,,,,,
+2018-07-31,qual.,Govind Nanda,Rowland Phillips,"6-1, 6-4",USA F21,36/64,34/52,21/36,17/34,16/28,6/18,5/9,2/7,29/52,27/64,66/116,50/116,0,1,2,0
+2018-08-01,1st round,Govind Nanda,Mousheg Hovhannisyan,"6-2, 6-2",USA F21,32/49,35/62,23/32,16/35,11/17,16/27,4/6,0/1,30/62,15/49,64/111,47/111,2,2,3,1
+2018-08-02,2nd round,Aron Hiltzik,Govind Nanda,"6-4, 6-3",USA F21,39/61,32/61,25/39,14/32,11/22,14/29,6/8,3/7,33/61,25/61,69/122,53/122,5,8,2,0
+2018-09-03,1st round,Nick Hardt,Govind Nanda,"6-4, 7-68",U.S. Open,,,,,,,,,,,,,,,,
+2018-09-19,1st round,Govind Nanda,Milen Ianakiev,"7-5, 6-1",USA F25,32/60,29/53,24/32,13/29,13/28,10/24,6/11,3/8,30/53,23/60,67/113,46/113,2,1,5,0
+2018-09-20,2nd round,Henry Craig,Govind Nanda,"6-3, 6-2",USA F25,39/60,43/58,26/39,25/43,14/21,7/15,4/6,0/3,26/58,20/60,66/118,52/118,0,1,3,0
+2018-09-22,,Govind Nanda,Jordan Sauer,"6-3, 6-4",USA F26,,,,,,,,,,,,,,,,
+2018-09-23,q 2,Govind Nanda,Lukas Moenter,"6-3, 6-0",USA F26,,,,,,,,,,,,,,,,
+2018-09-23,q 1,Govind Nanda,Fernando Fonseca,"6-4, 6-1",USA F26,,,,,,,,,,,,,,,,
+2018-09-25,qual.,Govind Nanda,George Goldhoff,"6-1, 6-2",USA F26,,,,,,,,,,,,,,,,
+2018-09-26,1st round,Govind Nanda,Kevin Major,"6-4, 4-6, 6-4",USA F26,60/106,62/88,36/60,38/62,24/46,11/26,6/12,5/11,39/88,46/106,99/194,95/194,1,2,1,0
+2018-09-27,2nd round,Lucas Gomez,Govind Nanda,"6-4, 3-6, 6-3",USA F26,54/88,49/90,37/54,27/49,17/34,23/41,5/16,4/8,40/90,34/88,94/178,84/178,5,1,2,7
+2017-01-09,q 1,Govind Nanda,Jordan Belga,"6-4, 6-2",USA F3,,,,,,,,,,,,,,,,
+2017-01-09,,Govind Nanda,Rohit Navelkar,"7-5, 6-0",USA F3,,,,,,,,,,,,,,,,
+2017-01-09,q 2,Alfredo Perez,Govind Nanda,"6-4, 6-0",USA F3,,,,,,,,,,,,,,,,
+2017-01-23,q 1,Govind Nanda,Preston Brown,"6-4, 7-5",USA F5,,,,,,,,,,,,,,,,
+2017-01-23,q 2,Nick Chappell,Govind Nanda,"3-6, 6-2, 6-4",USA F5,,,,,,,,,,,,,,,,
+2017-01-23,,Govind Nanda,Thomas Macleod,"6-1, 6-1",USA F5,,,,,,,,,,,,,,,,
+2017-02-13,,Govind Nanda,Anthony Fortunati,"6-1, 6-0",USA F7,,,,,,,,,,,,,,,,
+2017-02-13,qual.,Mico Santiago,Govind Nanda,"7-5, 6-3",USA F7,,,,,,,,,,,,,,,,
+2017-02-13,q 2,Govind Nanda,Drew Baird,"4-6, 6-4, 6-1",USA F7,,,,,,,,,,,,,,,,
+2017-02-13,q 1,Govind Nanda,Alon Elia,"6-74, 6-3, 6-3",USA F7,,,,,,,,,,,,,,,,
+2017-02-20,,Govind Nanda,Ulises Blanch,"6-3, 7-62",USA F8,,,,,,,,,,,,,,,,
+2017-02-20,q 1,Mico Santiago,Govind Nanda,"6-2, 1-6, 6-4",USA F8,,,,,,,,,,,,,,,,
+2017-02-27,qual.,Govind Nanda,Alon Elia,"4-6, 7-5, 6-4",USA F9,,,,,,,,,,,,,,,,
+2017-02-27,q 2,Govind Nanda,Mason Beiler,"6-4, 6-0",USA F9,,,,,,,,,,,,,,,,
+2017-02-27,q 1,Govind Nanda,Nick Chappell,"6-1, 7-68",USA F9,,,,,,,,,,,,,,,,
+2017-02-27,,Govind Nanda,Camille Kima,"6-0, 6-0",USA F9,,,,,,,,,,,,,,,,
+2017-03-01,1st round,Govind Nanda,Michael Riechmann,"7-65, 6-3",USA F9,46/70,42/78,31/46,28/42,14/24,16/36,3/3,1/4,34/78,25/70,79/148,69/148,2,3,2,3
+2017-03-02,2nd round,Peter Nagy,Govind Nanda,"7-66, 6-72, 6-4",USA F9,85/131,72/112,51/85,48/72,24/46,21/40,5/9,4/13,43/112,56/131,118/243,125/243,1,1,1,2
+2017-06-19,q 1,Julian Bradley,Govind Nanda,"3-6, 6-4, 6-4",USA F20,,,,,,,,,,,,,,,,
+2017-06-28,1st round,Thai Kwiatkowski,Govind Nanda,"7-65, 4-6, 6-1",USA F22,73/119,54/95,45/73,38/54,27/46,19/41,4/16,3/10,38/95,47/119,110/214,104/214,7,1,6,3
+2017-07-05,1st round,Govind Nanda,Roy Smith,"7-5, 6-1",USA F23,33/59,45/76,25/33,25/45,15/26,15/31,4/9,1/3,36/76,19/59,76/135,59/135,0,5,6,8
+2017-07-06,2nd round,Govind Nanda,Alexander Brown,"6-1, 7-63",USA F23,34/67,51/71,24/34,28/51,20/33,7/20,4/8,2/3,36/71,23/67,80/138,58/138,1,2,4,1
+2017-07-07,1/4,Michael Mmoh,Govind Nanda,"6-1, 6-4",USA F23,33/50,22/54,26/33,18/22,13/17,11/32,3/7,0/3,25/54,11/50,64/104,40/104,3,0,3,2
+2017-07-17,q 1,Tom Jomby,Govind Nanda,"6-4, 7-5",USA F24,,,,,,,,,,,,,,,,
+2017-07-24,qual.,Gustav Hansson,Govind Nanda,"6-4, 7-62",USA F25,,,,,,,,,,,,,,,,
+2017-07-24,q 2,Govind Nanda,Michael Redlicki,"6-4, 3-6, 7-5",USA F25,,,,,,,,,,,,,,,,
+2017-07-24,q 1,Govind Nanda,Austin Hussey,"6-3, 6-3",USA F25,,,,,,,,,,,,,,,,
+2017-09-04,1st round,Emil Ruusuvuori,Govind Nanda,"6-2, 6-3",U.S. Open,,,,,,,,,,,,,,,,
+2017-11-06,q 1,Peter Bertran,Govind Nanda,"6-77, 6-1, 6-4",USA F36,,,,,,,,,,,,,,,,
+2017-11-13,,Govind Nanda,Caspar Schuetze,"6-2, 6-2",USA F37,,,,,,,,,,,,,,,,
+2017-11-13,qual.,Govind Nanda,Nicaise Muamba,"7-65, 6-2",USA F37,,,,,,,,,,,,,,,,
+2017-11-13,q 2,Govind Nanda,Ion Efrim,"6-2, 5-7, 6-1",USA F37,,,,,,,,,,,,,,,,
+2017-11-13,q 1,Govind Nanda,Sergey Belov,"2-6, 7-66, 6-4",USA F37,,,,,,,,,,,,,,,,
+2017-11-15,1st round,Giovanni Oradini,Govind Nanda,"6-4, 6-1",USA F37,31/41,29/58,22/31,14/29,5/10,10/29,6/13,2/2,34/58,14/41,61/99,38/99,0,1,1,1
+2015-09-14,q 2,Martin Redlicki,Govind Nanda,"6-1, 6-4",USA F26,,,,,,,,,,,,,,,,
+2015-09-14,,Govind Nanda,Alexander Nichols,"7-62, 6-2",USA F26,,,,,,,,,,,,,,,,
+2015-09-14,q 1,Govind Nanda,Dro Dermegerdichian,"6-0, 6-0",USA F26,,,,,,,,,,,,,,,,
