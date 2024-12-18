@@ -1,0 +1,35 @@
+Date,Round,Player 1,Player 2,Score,Tournament,1st_serve_percentage_player1,1st_serve_percentage_player2,1st_serve_points_won_player1,1st_serve_points_won_player2,2nd_serve_points_won_player1,2nd_serve_points_won_player2,total_return_points_won_player1,total_return_points_won_player2,total_points_won_player1,total_points_won_player2,double_faults_player1,double_faults_player2,aces_player1,aces_player2,break_points_won_player1,break_points_won_player2
+2023-01-02,q 1,Alexander Hoogmartens,Stefan Menichella,"6-2, 6-1",M25 Malibu,,,,,,,,,,,,,,,,
+2023-01-03,qual.,Noah Schachter,Alexander Hoogmartens,"1-6, 6-2, 10-5",M25 Malibu,,,,,,,,,,,,,,,,
+2022-06-14,1st round,Simon Carr,Alexander Hoogmartens,"6-3, 6-1",M15 Duffel,25/50,24/47,17/25,10/24,14/25,8/23,29/47,19/50,60/97,37/97,2,3,2,0,6/8,2/4
+2022-06-20,q 1,Alexander Hoogmartens,Max Wiskandt,"6-2, 1-6, 17-15",M25 Arlon,42/72,42/67,24/42,24/42,11/30,8/25,35/67,37/72,70/139,69/139,9,5,2,0,4/5,4/6
+2022-06-21,qual.,Alexander Hoogmartens,Yannik Steinegger,"4-6, 6-4, 10-5",M25 Arlon,42/65,51/75,32/42,28/51,8/23,15/24,32/75,25/65,72/140,68/140,3,1,4,1,3/9,3/6
+2022-06-22,1st round,Alexander Hoogmartens,Constantin Frantzen,"6-4, 6-1",M25 Arlon,36/53,32/56,27/36,18/32,8/17,10/24,28/56,18/53,63/109,46/109,3,4,3,4,5/12,1/5
+2022-06-23,2nd round,Alexander Hoogmartens,Cezar Cretu,"7-5, 7-61",M25 Arlon,40/79,56/93,30/40,41/56,24/39,15/37,37/93,25/79,91/172,81/172,5,4,7,6,2/10,1/8
+2022-06-24,1/4,Gauthier Onclin,Alexander Hoogmartens,"6-2, 2-6, 7-65",M25 Arlon,65/105,65/101,40/65,39/65,15/40,13/36,49/101,50/105,104/206,102/206,3,8,0,4,6/11,6/10
+2022-06-26,q 1,Thorsten Sollie,Alexander Hoogmartens,"7-61, 6-2",M25 Den,,,,,,,,,,,,,,,,
+2022-07-10,q 1,Alexander Hoogmartens,Patrick Brady,"6-74, 6-4, 10-4",M25 Roehampton,63/99,52/88,42/63,36/52,18/36,18/36,34/88,39/99,94/187,93/187,5,6,6,1,3/7,2/14
+2022-07-11,qual.,Alexander Hoogmartens,Jack Karlsson Wistrand,"7-64, 6-3",M25 Roehampton,50/68,70/87,36/50,41/70,6/18,3/17,43/87,26/68,85/155,70/155,1,3,7,2,5/8,3/6
+2022-07-12,1st round,Alexander Hoogmartens,Oliver Tarvet,"6-4, 6-2",M25 Roehampton,44/78,27/51,29/44,16/27,16/34,9/24,26/51,33/78,71/129,58/129,6,1,4,1,5/8,3/9
+2022-07-13,2nd round,Alastair Gray,Alexander Hoogmartens,"3-6, 6-4, 6-3",M25 Roehampton,66/101,58/86,41/66,41/58,20/35,13/28,32/86,40/101,93/187,94/187,5,4,9,7,4/9,3/7
+2022-07-24,q 1,Alexander Hoogmartens,Eric Morris,"6-4, 6-3",M25 Nottingham,45/71,52/67,34/45,29/52,9/26,5/15,33/67,28/71,76/138,62/138,4,0,3,1,4/9,2/5
+2022-07-25,qual.,Alexander Hoogmartens,Michael Shaw,"6-2, 6-1",M25 Nottingham,33/47,27/41,22/33,16/27,10/14,0/14,25/41,15/47,57/88,31/88,4,3,7,2,5/10,1/1
+2022-07-26,1st round,Toby Samuel,Alexander Hoogmartens,"6-3, 6-2",M25 Nottingham,40/55,35/56,27/40,20/35,10/15,10/21,26/56,18/55,63/111,48/111,0,2,5,2,4/12,1/4
+2022-08-09,1st round,Michiel De Krom,Alexander Hoogmartens,"7-5, 6-3",M15 Eupen,47/64,28/54,35/47,21/28,9/17,10/26,23/54,20/64,67/118,51/118,0,4,1,3,3/4,1/3
+2022-08-15,1st round,Tibo Colson,Alexander Hoogmartens,"6-4, 6-2",M25 Koksijde,41/69,30/58,27/41,19/30,16/28,12/28,27/58,26/69,70/127,57/127,1,4,2,4,4/7,1/8
+2022-08-24,1st round,Alexander Hoogmartens,Jack Loge,"7-5, 2-6, 6-1",M15 Lambermont,41/82,50/74,30/41,32/50,24/41,10/24,32/74,28/82,86/156,70/156,6,7,3,2,5/7,4/10
+2022-08-25,2nd round,Thomas Deschamps,Alexander Hoogmartens,"3-6, 6-3, 7-5",M15 Lambermont,63/90,69/115,44/63,48/69,14/27,19/46,48/115,32/90,106/205,99/205,3,9,4,5,4/13,3/5
+2022-08-30,1st round,Dominik Boehler,Alexander Hoogmartens,"7-5, 7-5",M15 Haren,46/88,41/80,33/46,24/41,20/42,19/39,37/80,35/88,90/168,78/168,3,4,5,3,5/13,3/11
+2021-01-07,1st round,Stefanos Sakellaridis,Alexander Hoogmartens,"7-5, 6-3",M15 Antalya,42/65,30/57,27/42,15/30,7/23,9/27,33/57,31/65,67/122,55/122,5,8,,,6/8,4/7
+2021-01-10,q 1,Alberto Barroso Campos,Alexander Hoogmartens,"6-0, 6-2",M15 Manacor,,,,,,,,,,,,,,,,
+2021-03-10,1st round,Emiliano Maggioli,Alexander Hoogmartens,"7-62, 6-3",M15 Antalya,38/67,41/65,20/38,19/41,15/29,9/24,37/65,32/67,72/132,60/132,4,3,,,7/9,5/6
+2021-03-17,1st round,Miljan Zekic,Alexander Hoogmartens,"5-7, 7-5, 6-2",M15 Antalya,61/100,57/90,40/61,36/57,16/39,9/33,45/90,44/100,101/190,89/190,5,4,11,17,8/14,6/12
+2021-06-09,1st round,Federico Bertuccioli,Alexander Hoogmartens,"6-74, 6-2, 6-4",M15 Gaiba,61/88,56/104,48/61,39/56,16/27,25/48,40/104,24/88,104/192,88/192,3,4,11,5,3/9,0/4
+2021-08-18,1st round,Alexander Hoogmartens,Deney Wassermann,"2-6, 7-63, 6-0",M15 Oldenzaal,56/97,60/107,36/56,37/60,21/41,20/47,50/107,40/97,107/204,97/204,3,5,3,1,5/14,4/15
+2021-08-20,1/4,Guy Den Heijer,Alexander Hoogmartens,"6-3, 6-77, 6-4",M15 Oldenzaal,60/106,67/109,40/60,45/67,22/46,15/42,49/109,44/106,111/215,104/215,2,8,4,4,7/9,4/8
+2021-08-20,2nd round,Alexander Hoogmartens,Ryan Nijboer,"1-6, 7-5, 6-3",M15 Oldenzaal,74/121,65/101,41/74,40/65,23/47,13/36,48/101,57/121,112/222,110/222,6,8,1,0,6/15,6/15
+2021-09-09,1st round,Simon Beaupain,Alexander Hoogmartens,"7-5, 3-6, 6-3",M25 Eupen,77/103,62/108,47/77,40/62,12/26,17/46,51/108,44/103,110/211,101/211,1,3,2,1,6/8,5/12
+2020-01-25,1st round,Alexander Hoogmartens,Derek Pham,"6-3, 6-3",Australian Open,,,,,,,,,,,,,,,,
+2020-01-27,2nd round,Leandro Riedi,Alexander Hoogmartens,"6-3, 6-2",Australian Open,,,,,,,,,,,,,,,,
+2020-10-04,1st round,Alexander Hoogmartens,Alexander Bernard,"6-0, 6-2",French Open,,,,,,,,,,,,,,,,
+2020-10-05,2nd round,Sean Cuenin,Alexander Hoogmartens,"7-5, 3-6, 6-1",French Open,,,,,,,,,,,,,,,,

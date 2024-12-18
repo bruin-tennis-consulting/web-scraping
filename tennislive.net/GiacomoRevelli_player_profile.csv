@@ -1,0 +1,112 @@
+Date,Round,Player 1,Player 2,Score,Tournament,1st_serve_percentage_player1,1st_serve_percentage_player2,1st_serve_points_won_player1,1st_serve_points_won_player2,2nd_serve_points_won_player1,2nd_serve_points_won_player2,total_return_points_won_player1,total_return_points_won_player2,total_points_won_player1,total_points_won_player2,double_faults_player1,double_faults_player2,aces_player1,aces_player2,break_points_won_player1,break_points_won_player2
+2023-05-29,q 1,Aleksa Ciric,Giacomo Revelli,"2-6, 7-5, 10-8",M15 Rancho,,,,,,,,,,,,,,,,
+2023-06-05,q 1,Jonas Eriksson Ziverts,Giacomo Revelli,"6-3, 6-4",M15 San,,,,,,,,,,,,,,,,
+2023-06-19,q 1,Giacomo Revelli,Jett Middleton,"6-0, 6-1",M15 Los,,,,,,,,,,,,,,,,
+2023-06-20,qual.,Quinn Vandecasteele,Giacomo Revelli,"6-4, 4-6, 10-8",M15 Los,,,,,,,,,,,,,,,,
+2023-06-26,q 1,Giacomo Revelli,Alex Jones,"6-3, 6-2",M15 Irvine,,,,,,,,,,,,,,,,
+2023-06-27,qual.,Rudy Quan,Giacomo Revelli,"5-7, 6-1, 10-6",M15 Irvine,,,,,,,,,,,,,,,,
+2023-07-03,q 1,Giacomo Revelli,Zachary Leslie,"6-1, 6-0",M15 Lakewood,,,,,,,,,,,,,,,,
+2023-07-04,qual.,Azuma Visaya,Giacomo Revelli,"6-4, 6-3",M15 Lakewood,,,,,,,,,,,,,,,,
+2023-07-12,1st round,Andre Ilagan,Giacomo Revelli,"6-2, 6-2",M15 Lakewood,23/39,27/47,20/23,17/27,12/16,7/20,23/47,7/39,55/86,31/86,1,3,0,4,,
+2023-07-23,q 1,Giacomo Revelli,Alberto Altur Fernandez,"6-1, 6-1",M25 Denia,,,,,,,,,,,,,,,,
+2023-07-24,q 2,Giacomo Revelli,Toprak Avcibasi,"6-4, 2-6, 13-11",M25 Denia,,,,,,,,,,,,,,,,
+2023-07-25,qual.,Jaime Caldes,Giacomo Revelli,"6-0, 6-1",M25 Denia,32/37,24/40,25/32,10/24,3/5,5/16,25/40,9/37,53/77,24/77,0,1,0,2,,
+2023-07-26,1st round,Iker Urribarrens Ramirez,Giacomo Revelli,"7-5, 6-0",M25 Denia,34/59,33/52,23/34,17/33,14/25,6/19,29/52,22/59,66/111,45/111,5,4,0,1,6/8,2/7
+2023-07-30,q 1,Giacomo Revelli,Carlos Guerrero Alvarez,"6-3, 6-3",M15 Xativa,,,,,,,,,,,,,,,,
+2023-07-31,q 2,Giacomo Revelli,Iannis Miletich,"7-5, 6-1",M15 Xativa,,,,,,,,,,,,,,,,
+2023-08-01,qual.,Nicolas Herrero,Giacomo Revelli,"6-3, 6-2",M15 Xativa,,,,,,,,,,,,,,,,
+2023-08-20,q 1,Giacomo Revelli,Ivan Perez Martin,"6-0, 6-0",M25 Santander,,,,,,,,,,,,,,,,
+2023-08-21,qual.,Iker Urribarrens Ramirez,Giacomo Revelli,"3-6, 7-5, 10-6",M25 Santander,35/65,52/92,23/35,35/52,14/30,18/40,39/92,28/65,76/157,81/157,4,4,0,2,3/10,3/4
+2023-08-28,q 1,Giacomo Revelli,Pablo Masjuan Ginel,"3-6, 6-2, 12-10",M25 Oviedo,29/64,26/49,24/29,15/26,13/35,11/23,23/49,27/64,60/113,53/113,4,4,2,1,4/5,4/5
+2023-08-29,qual.,Giacomo Revelli,Javier Molino,"6-2, 6-2",M25 Oviedo,33/64,31/51,22/33,14/31,18/31,9/20,28/51,24/64,68/115,47/115,6,2,,,5/7,1/10
+2023-08-30,1st round,Giacomo Revelli,Ivan Perez Martin,"6-2, 6-1",M25 Oviedo,48/48,51/51,31/48,22/51,,,29/51,17/48,60/99,39/99,,,,,,
+2023-08-30,2nd round,Carlos Lopez Montagud,Giacomo Revelli,"6-3, 6-2",M25 Oviedo,26/45,30/54,22/26,17/30,9/19,7/24,30/54,14/45,61/99,38/99,3,3,0,1,5/9,1/2
+2023-09-03,q 1,Giacomo Revelli,Bruno Zarlenga,"6-3, 6-1",M15 Madrid,,,,,,,,,,,,,,,,
+2023-09-04,q 2,Giacomo Revelli,Iannis Miletich,"6-2, 6-3",M15 Madrid,,,,,,,,,,,,,,,,
+2023-09-05,qual.,Giacomo Revelli,Matteo Lavizzari,"6-4, 6-3",M15 Madrid,,,,,,,,,,,,,,,,
+2023-09-06,1st round,Giacomo Revelli,Alvaro Peiro Serrano,"6-2, 6-4",M15 Madrid,33/58,47/64,22/33,25/47,11/25,3/17,36/64,25/58,69/122,53/122,3,5,,,6/9,3/10
+2023-09-07,2nd round,Luciano Emanuel Ambrogi,Giacomo Revelli,"3-6, 7-64, 6-4",M15 Madrid,60/89,81/130,42/60,49/81,15/29,24/49,57/130,32/89,114/219,105/219,1,3,4,5,4/13,4/4
+2023-10-09,q 2,Giacomo Revelli,Asier Civera Martinez,"6-1, 6-4",M15 Vigo,,,,,,,,,,,,,,,,
+2023-10-10,qual.,Giacomo Revelli,Sam Kydd Baumgartner,"7-5, 2-6, 10-7",M15 Vigo,,,,,,,,,,,,,,,,
+2023-10-11,1st round,Giacomo Revelli,Oscar Jose Gutierrez,"7-62, 3-0,    - retired",M15 Vigo,41/60,36/59,29/41,23/36,14/19,11/23,25/59,17/60,68/119,51/119,0,3,0,2,1/6,0/3
+2023-10-12,2nd round,Vilius Gaubas,Giacomo Revelli,"6-4, 6-4",M15 Vigo,37/55,43/63,31/37,29/43,10/18,10/20,24/63,14/55,65/118,53/118,1,0,0,1,,
+2023-10-15,q 1,Martins Rocens,Giacomo Revelli,"6-3, 3-6, 13-11",M15 Castellon,,,,,,,,,,,,,,,,
+2023-11-13,q 2,Giacomo Revelli,Alexey Aleshchev,"7-5, 6-3",M15 Sharm,,,,,,,,,,,,,,,,
+2023-11-14,qual.,Giacomo Revelli,Vardan Manukyan,"4-6, 6-2, 11-9",M15 Sharm,37/59,37/65,29/37,26/37,11/22,15/28,24/65,19/59,64/124,60/124,2,3,4,2,2/3,1/1
+2023-11-15,1st round,Filippo Speziali,Giacomo Revelli,"6-4, 6-4",M15 Sharm,48/72,48/64,36/48,37/48,11/24,4/16,23/64,25/72,70/136,66/136,3,0,3,4,2/3,0/3
+2023-11-20,q 2,Giacomo Revelli,Dmytro Shirokyi,"6-0, 4-0,    - retired",M15 Sharm,,,,,,,,,,,,,,,,
+2023-11-21,qual.,Giacomo Revelli,Dominic Ducariu,"7-5, 6-3",M15 Sharm,50/68,41/60,33/50,21/41,9/18,8/19,31/60,26/68,73/128,55/128,3,3,6,2,5/7,3/6
+2023-11-22,1st round,Evgeny Philippov,Giacomo Revelli,"6-2, 6-3",M15 Sharm,26/39,43/57,22/26,24/43,10/13,5/14,28/57,7/39,60/96,36/96,0,1,1,3,,
+2023-11-26,q 1,Giacomo Revelli,Asier Civera Martinez,"6-1, 6-4",M15 Madrid,,,,,,,,,,,,,,,,
+2023-11-27,q 2,Giacomo Revelli,Pablo Manzano Lapuerta,"6-3, 6-2",M15 Madrid,,,,,,,,,,,,,,,,
+2023-11-28,qual.,Xavi Matas Ortega,Giacomo Revelli,"7-67, 6-3",M15 Madrid,,,,,,,,,,,,,,,,
+2022-03-21,q 1,William Bushamuka,Giacomo Revelli,"6-3, 6-4",M25 Calabasas,,,,,,,,,,,,,,,,
+2022-07-03,q 1,Giacomo Revelli,Jon Ander Garcia Blanco,"6-0, 6-0",M25 Getxo,,,,,,,,,,,,,,,,
+2022-07-04,qual.,Mario Mansilla Diez,Giacomo Revelli,"6-2, 6-1",M25 Getxo,26/42,35/52,21/26,12/35,7/16,8/17,32/52,14/42,60/94,34/94,1,1,,,6/12,1/3
+2022-07-10,q 1,Giacomo Revelli,Stephanos Schinas,"6-2, 0-1,    - retired",M25 Uriage,15/25,15/23,10/15,6/15,5/10,2/8,15/23,10/25,30/48,18/48,3,4,0,1,3/3,2/4
+2022-07-11,q 2,Giacomo Revelli,Guillaume Majcher,"6-4, 6-4",M25 Uriage,37/57,37/69,28/37,25/37,14/20,17/32,27/69,15/57,69/126,57/126,2,6,2,0,,
+2022-07-11,qual.,Jakub Wojcik,Giacomo Revelli,"7-5, 6-3",M25 Uriage,45/79,45/81,30/45,31/45,22/34,14/36,36/81,27/79,88/160,72/160,4,5,2,0,3/13,1/5
+2022-07-13,1st round,Giacomo Revelli,Alexandre Reco,"7-5, 7-68",M25 Uriage,51/81,52/78,37/51,36/52,17/30,15/26,27/78,27/81,81/159,78/159,2,6,5,0,3/7,2/4
+2022-07-14,2nd round,Pol Martin Tiffon,Giacomo Revelli,"6-2, 2-6, 6-0",M25 Uriage,38/66,48/76,32/38,30/48,13/28,10/28,36/76,21/66,81/142,61/142,6,5,2,4,5/7,2/4
+2022-07-17,q 1,Giacomo Revelli,David Puig Molina,"6-2, 6-1",M25 Gandia,,,,,,,,,,,,,,,,
+2022-07-18,q 2,Giacomo Revelli,Stefan Cizelj-Zivkovic,"6-1, 1-0,    - retired",M25 Gandia,,,,,,,,,,,,,,,,
+2022-07-19,qual.,Giacomo Revelli,Alberto Altur Fernandez,"6-2, 6-0",M25 Gandia,28/42,27/41,24/28,11/27,7/14,5/14,25/41,11/42,56/83,27/83,0,2,1,0,5/6,0/2
+2022-07-20,1st round,Sergi Perez Contri,Giacomo Revelli,"6-4, 6-2",M25 Gandia,43/58,43/59,28/43,22/43,9/15,8/16,29/59,21/58,66/117,51/117,2,0,0,1,5/11,2/8
+2022-07-24,q 1,Giacomo Revelli,Noah Lopez,"7-64, 6-4",M25 Denia,,,,,,,,,,,,,,,,
+2022-07-25,q 2,Giacomo Revelli,Higinio Sanchis Melero,"6-0, 6-0",M25 Denia,,,,,,,,,,,,,,,,
+2022-07-26,qual.,Giacomo Revelli,Carlos Guerrero Alvarez,"6-1, 6-2",M25 Denia,31/46,38/50,20/31,13/38,9/15,6/12,31/50,17/46,60/96,36/96,0,2,,,6/13,2/4
+2022-07-27,1st round,Giacomo Revelli,Svyatoslav Gulin,"2-6, 6-3, 6-1",M25 Denia,55/87,54/85,35/55,31/54,13/32,12/31,42/85,39/87,90/172,82/172,3,4,3,1,6/14,4/12
+2022-07-28,2nd round,Mariano Navone,Giacomo Revelli,"5-7, 6-3, 6-3",M25 Denia,57/92,54/87,40/57,34/54,17/35,15/33,38/87,35/92,95/179,84/179,4,2,2,2,6/13,4/9
+2022-07-31,q 1,Giacomo Revelli,Felix Mischker,"6-2, 6-3",M15 Xativa,,,,,,,,,,,,,,,,
+2022-08-01,q 2,Giacomo Revelli,Asier Pascual De Zulueta,"6-1, 6-2",M15 Xativa,,,,,,,,,,,,,,,,
+2022-08-02,qual.,Giacomo Revelli,Noah Regas Luis,"6-1, 6-2",M15 Xativa,,,,,,,,,,,,,,,,
+2022-08-03,1st round,Giacomo Revelli,Sergi Fita Juan,"6-1, 6-0",M15 Xativa,25/39,24/31,19/25,4/24,8/14,2/7,25/31,12/39,52/70,18/70,3,2,2,0,6/7,1/2
+2022-08-04,2nd round,Alex Barrena,Giacomo Revelli,"6-1, 6-3",M15 Xativa,32/46,25/46,24/32,15/25,7/14,6/21,25/46,15/46,56/92,36/92,2,5,1,1,5/7,1/1
+2022-08-07,q 1,Giacomo Revelli,Alen Moritz Hodzic,"6-4, 6-4",M15 Eupen,,,,,,,,,,,,,,,,
+2022-08-08,q 2,Giacomo Revelli,Sam Bakker,"6-2, 6-1",M15 Eupen,29/45,29/56,25/29,15/29,8/16,12/27,29/56,12/45,62/101,39/101,1,4,5,1,4/5,0/1
+2022-08-09,qual.,Giacomo Revelli,Alexis Boureau,"6-2, 4-6, 10-8",M15 Eupen,54/91,52/74,38/54,27/52,11/37,10/22,37/74,42/91,86/165,79/165,4,4,1,2,4/7,3/10
+2022-08-10,1st round,Alexander Blockx,Giacomo Revelli,"6-2, 6-1",M15 Eupen,27/45,31/54,22/27,14/31,8/18,9/23,31/54,15/45,61/99,38/99,1,3,2,1,5/9,1/5
+2022-08-15,q 1,Giacomo Revelli,Fynn Skender,"6-2, 6-0",M25 Muttenz,26/48,30/51,20/26,14/30,10/22,5/21,32/51,18/48,62/99,37/99,2,4,,,6/14,1/6
+2022-08-16,qual.,Daniel Valent,Giacomo Revelli,"6-3, 6-4",M25 Muttenz,36/60,44/66,29/36,26/44,13/24,11/22,29/66,18/60,71/126,55/126,1,1,0,6,3/5,1/3
+2022-08-17,1st round,Matteo Martineau,Giacomo Revelli,"6-4, 6-4",M25 Muttenz,42/61,42/65,30/42,26/42,8/19,9/23,30/65,23/61,68/126,58/126,4,2,3,2,4/9,2/5
+2022-11-07,q 1,Giacomo Revelli,Arman Zamani,"6-2, 6-0",M25 Austin,,,,,,,,,,,,,,,,
+2022-11-08,qual.,Marko Mesarovic,Giacomo Revelli,"6-4, 6-3",M25 Austin,7/11,3/5,4/7,3/3,2/3,1/2,1/5,4/10,7/15,8/15,1,0,,,,
+2021-01-31,q 1,Alberto Barroso Campos,Giacomo Revelli,"6-1, 6-4",M25 Villena,,,,,,,,,,,,,,,,
+2021-02-21,q 1,Giacomo Revelli,Karlo Cubelic,"6-2, 4-3,    - retired",M15 Sharm,,,,,,,,,,,,,,,,
+2021-02-22,q 2,Omni Kumar,Giacomo Revelli,"6-1, 6-3",M15 Sharm,,,,,,,,,,,,,,,,
+2021-03-14,q 1,Giacomo Revelli,Shahar Gabay,"6-1, 6-0",M15 Sharm,,,,,,,,,,,,,,,,
+2021-03-15,q 2,Giacomo Revelli,Oleg Khotkov,"6-3, 6-3",M15 Sharm,,,,,,,,,,,,,,,,
+2021-03-16,qual.,Giacomo Revelli,Gabriele Datei,"7-5, 4-6, 10-8",M15 Sharm,63/91,56/89,40/63,32/56,9/28,14/33,43/89,42/91,92/180,88/180,5,2,5,3,5/9,5/8
+2021-03-17,1st round,Yuta Shimizu,Giacomo Revelli,"3-6, 6-4, 6-1",M15 Sharm,55/86,47/76,40/55,32/47,14/31,13/29,31/76,32/86,85/162,77/162,4,5,1,6,4/5,2/8
+2021-03-21,q 1,Mukund Sasikumar,Giacomo Revelli,"6-4, 6-1",M15 Sharm,,,,,,,,,,,,,,,,
+2021-03-28,q 1,Giacomo Revelli,Da-Niel Kotze,"6-1, 6-0",M15 Sharm,,,,,,,,,,,,,,,,
+2021-03-29,q 2,Pawel Juszczak,Giacomo Revelli,"6-1, 6-3",M15 Sharm,,,,,,,,,,,,,,,,
+2021-04-18,q 1,Giacomo Revelli,Gian Luca Tanner,"6-3, 6-2",M15 Cairo,,,,,,,,,,,,,,,,
+2021-04-19,q 2,Juan Ignacio Alcalde,Giacomo Revelli,"6-4,    - retired",M15 Cairo,,,,,,,,,,,,,,,,
+2021-05-09,q 1,Omni Kumar,Giacomo Revelli,"6-2, 6-0",M15 Monastir,,,,,,,,,,,,,,,,
+2021-05-16,q 1,Giacomo Revelli,Emil Reinberg,"6-4, 6-2",M15 Monastir,,,,,,,,,,,,,,,,
+2021-05-17,q 2,Seongbin Sim,Giacomo Revelli,"6-4, 2-6, 10-8",M15 Monastir,,,,,,,,,,,,,,,,
+2021-05-23,q 1,Giacomo Revelli,Alessandro-Damiano Ventre,"6-3, 6-3",M15 Monastir,,,,,,,,,,,,,,,,
+2021-05-24,q 2,Maxence Beauge,Giacomo Revelli,"4-6, 7-67, 10-4",M15 Monastir,,,,,,,,,,,,,,,,
+2021-05-30,q 1,Giacomo Revelli,Nicolas Bruna,"6-3, 7-5",M15 Monastir,,,,,,,,,,,,,,,,
+2021-05-31,q 2,Giacomo Revelli,Damien Salvestre,"6-2, 2-6, 10-6",M15 Monastir,,,,,,,,,,,,,,,,
+2021-05-31,qual.,Mauro De Maio,Giacomo Revelli,"6-3, 6-2",M15 Monastir,,,,,,,,,,,,,,,,
+2021-06-14,q 1,Daniel Rodrigues,Giacomo Revelli,"6-0, 4-6, 10-7",M15 Monastir,,,,,,,,,,,,,,,,
+2021-06-20,q 1,Perry Gregg,Giacomo Revelli,"7-66, 3-6, 10-8",M15 Monastir,,,,,,,,,,,,,,,,
+2021-06-27,q 1,Alex Jones,Giacomo Revelli,"6-4, 6-4",M15 Monastir,,,,,,,,,,,,,,,,
+2021-07-26,q 2,Giacomo Revelli,Jose Joaquin Miranda Cisneros,"4-0,    - retired",M25 Denia,,,,,,,,,,,,,,,,
+2021-07-26,q 1,Giacomo Revelli,Oliwer Wierzbicki,"6-1, 6-0",M25 Denia,,,,,,,,,,,,,,,,
+2021-07-27,qual.,Giacomo Revelli,Matvey Minin,"6-2, 6-4",M25 Denia,26/45,33/54,19/26,22/33,12/19,5/21,27/54,14/45,58/99,41/99,0,7,1,1,5/11,2/4
+2021-07-28,1st round,Giacomo Revelli,Nacho Serra Sanchez,"6-1, 7-5",M25 Denia,43/57,32/54,31/43,19/32,9/14,8/22,27/54,17/57,67/111,44/111,1,1,1,0,4/5,1/2
+2021-07-29,2nd round,Calvin Hemery,Giacomo Revelli,"6-3, 6-1",M25 Denia,31/51,24/43,26/31,15/24,10/20,6/19,22/43,15/51,58/94,36/94,2,3,3,0,4/6,0/3
+2021-08-01,q 1,Giacomo Revelli,Makary Adamek,"6-1, 6-1",M25 Grodzisk,27/39,27/37,22/27,10/27,8/12,3/10,24/37,9/39,54/76,22/76,0,5,1,0,5/8,0/4
+2021-08-02,q 2,Giacomo Revelli,Michal Wozniak,"6-3, 6-2",M25 Grodzisk,30/47,23/42,20/30,15/23,11/17,4/19,23/42,16/47,54/89,35/89,0,7,2,2,5/7,2/3
+2021-08-02,qual.,Giacomo Revelli,Alan Bojarski,"6-3, 6-2",M25 Grodzisk,37/55,25/45,23/37,15/25,11/18,7/20,23/45,21/55,57/100,43/100,2,2,,,5/7,2/3
+2021-08-05,1st round,Pedro Sakamoto,Giacomo Revelli,"5-7, 6-2, 6-3",M25 Grodzisk,63/83,41/78,44/63,24/41,9/20,19/37,35/78,30/83,88/161,73/161,0,6,1,2,6/8,3/14
+2021-08-16,q 1,Giacomo Revelli,Paul Schmoelzer,"6-1, 6-1",M15 Warmbad,,,,,,,,,,,,,,,,
+2021-08-17,qual.,Giacomo Revelli,Leonardo Taddia,"6-4, 6-1",M15 Warmbad,,,,,,,,,,,,,,,,
+2021-08-17,q 2,Giacomo Revelli,Marco De Rosa,"6-73, 6-4, 10-1",M15 Warmbad,,,,,,,,,,,,,,,,
+2021-08-18,1st round,Sebastian Prechtel,Giacomo Revelli,"6-3, 6-3",M15 Warmbad,25/53,38/63,18/25,27/38,20/28,9/25,27/63,15/53,65/116,51/116,1,2,1,2,3/9,0/1
+2021-10-26,q 1,Giacomo Revelli,Joe Tyler,"4-6, 6-0, 10-5",M25 Calabasas,,,,,,,,,,,,,,,,
+2021-10-27,1st round,Kyle Kang,Giacomo Revelli,"6-4, 7-5",M25 Calabasas,30/57,45/79,23/30,32/45,21/27,16/34,31/79,13/57,75/136,61/136,1,6,1,1,,
+2021-10-27,qual.,Giacomo Revelli,Masato Perera,"2-6, 6-3, 10-4",M25 Calabasas,49/70,30/53,34/49,20/30,8/21,11/23,22/53,28/70,64/123,59/123,4,3,3,0,2/2,3/7
