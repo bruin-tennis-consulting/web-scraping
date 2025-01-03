@@ -11,8 +11,6 @@ pd.set_option('display.max_rows', None)
 # pass in a url, then modify it for the scraper
 # compile a list of urls, then just do the change, or do it according to user input?
 
-
-
 # idea should be maybe to have user input be url_original..
 url_original = 'https://ioncourt.com/live-scoring/66f56802035c490337d02632'
 modified_url = url_original.replace("ioncourt.com/live-scoring", "api.ioncourt.com/api/match")
