@@ -10,211 +10,228 @@ pd.set_option('display.max_rows', None)
 #url_original = 'https://ioncourt.com/live-scoring/66f56802035c490337d02632'
 
 # for now, user inputs link in format above..
+
+
+# unable to test because site is down, but this should work..
+
+
+# just plug in every match you need into url_list
+# then run, everything should be automatic
+# if this doens't work, just remove the encapsulating for loop 
+url_list = []
+
+
 url_original = input("Enter link: ")
-modified_url = url_original.replace("ioncourt.com/live-scoring", "api.ioncourt.com/api/match")
-
-headers = {"UserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}
-page = requests.get(modified_url, headers=headers)
-match_data = page.json()
-
-# normalize data 
-match_data['data'].keys()
-match_data = match_data['data']
-
-# player 1 info 
-p1_first_name = pd.json_normalize(match_data['sides'])['players'][0][0]['participant']['first_name']
-p1_last_name = pd.json_normalize(match_data['sides'])['players'][0][0]['participant']['last_name']
-p1_full_name = p1_first_name + " " + p1_last_name
-
-# player 2 info 
-p2_first_name = pd.json_normalize(match_data['sides'])['players'][1][0]['participant']['first_name']
-p2_last_name = pd.json_normalize(match_data['sides'])['players'][1][0]['participant']['last_name']
-p2_full_name = p2_first_name + " " + p2_last_name
-
-# puts scores in #-# format 
-df_scores = pd.json_normalize(match_data['sets'])
-df_scores['score'] = df_scores.apply(lambda row: f"{row['side1Score']}-{row['side2Score']}", axis=1)
-
-# converts the dataframe to a singular list 
-scores_array = df_scores['score'].tolist()
-
-# round info 
-round_ofmatch = match_data['roundName']
-round_num = match_data['roundNumber']
-
-#reformat start date:
-unformatted_date = match_data['startDate']
-start_date = unformatted_date[:10]
 
 
-# tournament id conversion to tournmanent name using Selenium script 
-tournament_id = match_data['tournament']
-tournament_url = f'https://ioncourt.com/tournaments/{tournament_id}/live-score'
+for url in url_list:
 
-# selenium script to get tournament name 
+    url_original = url
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import time
+    modified_url = url_original.replace("ioncourt.com/live-scoring", "api.ioncourt.com/api/match")
 
-url = tournament_url
-driver = webdriver.Chrome()
+    headers = {"UserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}
+    page = requests.get(modified_url, headers=headers)
+    match_data = page.json()
 
-try:
-    driver.get(tournament_url)
+    # normalize data 
+    match_data['data'].keys()
+    match_data = match_data['data']
 
-    time.sleep(3) # it doesn't work for some reason if i don't put have a sleep here 
+    # player 1 info 
+    p1_first_name = pd.json_normalize(match_data['sides'])['players'][0][0]['participant']['first_name']
+    p1_last_name = pd.json_normalize(match_data['sides'])['players'][0][0]['participant']['last_name']
+    p1_full_name = p1_first_name + " " + p1_last_name
 
-    # locate tournament title name via XPATH
-    tournament_label = WebDriverWait(driver, 20).until(
-        EC.visibility_of_element_located(
-            (By.XPATH, '//*[@id="content"]/app-tournament-details/ion-tabs/div/ion-router-outlet/app-live-score/app-tournament-header/ion-header/ion-toolbar[1]/ion-item/ion-label')
-        )
-    )
-    # takes the text of the element's XPATH 
-    tournament_name = tournament_label.text.strip()
+    # player 2 info 
+    p2_first_name = pd.json_normalize(match_data['sides'])['players'][1][0]['participant']['first_name']
+    p2_last_name = pd.json_normalize(match_data['sides'])['players'][1][0]['participant']['last_name']
+    p2_full_name = p2_first_name + " " + p2_last_name
 
-finally:
-    driver.quit()
+    # puts scores in #-# format 
+    df_scores = pd.json_normalize(match_data['sets'])
+    df_scores['score'] = df_scores.apply(lambda row: f"{row['side1Score']}-{row['side2Score']}", axis=1)
 
-match_info = {
-    "Date": [start_date],
-    "Round": [round_ofmatch], 
-    "Player 1": [p1_full_name],  
-    "Player 2": [p2_full_name],  
-    "Score": [scores_array],  
-    "Tournament": [tournament_name],  
-}
+    # converts the dataframe to a singular list 
+    scores_array = df_scores['score'].tolist()
 
-# convert match_info dict to a dataframe 
-df_match = pd.DataFrame(match_info)
+    # round info 
+    round_ofmatch = match_data['roundName']
+    round_num = match_data['roundNumber']
 
+    #reformat start date:
+    unformatted_date = match_data['startDate']
+    start_date = unformatted_date[:10]
 
+    # tournament id conversion to tournmanent name using Selenium script 
+    tournament_id = match_data['tournament']
+    tournament_url = f'https://ioncourt.com/tournaments/{tournament_id}/live-score'
 
+    # selenium script to get tournament name 
 
+    from selenium import webdriver
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+    import time
 
-
-# Selenium script for stats info 
-
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-
-try:
+    url = tournament_url
     driver = webdriver.Chrome()
 
-    url = url_original
-    driver.get(url)
+    try:
+        driver.get(tournament_url)
 
-    # click site's "STATS" button by locating via element's XPATH 
-    stats_button = WebDriverWait(driver, 30).until(
-        EC.element_to_be_clickable((By.XPATH, "//*[@value='stats']"))
-    )
+        time.sleep(3) # it doesn't work for some reason if i don't put have a sleep here 
 
-    stats_button.click()
+        # locate tournament title name via XPATH
+        tournament_label = WebDriverWait(driver, 20).until(
+            EC.visibility_of_element_located(
+                (By.XPATH, '//*[@id="content"]/app-tournament-details/ion-tabs/div/ion-router-outlet/app-live-score/app-tournament-header/ion-header/ion-toolbar[1]/ion-item/ion-label')
+            )
+        )
+        # takes the text of the element's XPATH 
+        tournament_name = tournament_label.text.strip()
 
-    # get the text info associated with the stats section 
-    stats_grid = WebDriverWait(driver, 30).until(
-        EC.presence_of_element_located((By.XPATH, '//*[@id="content"]/app-match-tracker/ion-content/div[3]/app-stats/ion-grid'))
-    )
+    finally:
+        driver.quit()
 
-    raw_data = stats_grid.text 
+    match_info = {
+        "Date": [start_date],
+        "Round": [round_ofmatch], 
+        "Player 1": [p1_full_name],  
+        "Player 2": [p2_full_name],  
+        "Score": [scores_array],  
+        "Tournament": [tournament_name],  
+    }
 
-except Exception as e:
-    print("Error occurred:", e)
+    # convert match_info dict to a dataframe 
+    df_match = pd.DataFrame(match_info)
 
-finally:
-    driver.quit()
+    # Selenium script for stats info 
 
-# Format the stats info
+    from selenium import webdriver
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
 
-player1_stats = {}
-player2_stats = {}
+    try:
+        driver = webdriver.Chrome()
 
-lines = raw_data.strip().splitlines()
+        url = url_original
+        driver.get(url)
 
-start_index = 33
-relevant_lines = lines[start_index:]
+        # click site's "STATS" button by locating via element's XPATH 
+        stats_button = WebDriverWait(driver, 30).until(
+            EC.element_to_be_clickable((By.XPATH, "//*[@value='stats']"))
+        )
 
-stats = {
-    "aces_player1": "",
-    "aces_player2": "",
-    "double_faults_player1": "",
-    "double_faults_player2": "",
-    "1st_serve_percentage_player1": "",
-    "1st_serve_percentage_player2": "",
-    "1st_serve_points_won_player1": "",
-    "1st_serve_points_won_player2": "",
-    "2nd_serve_points_won_player1": "",
-    "2nd_serve_points_won_player2": "",
-    "total_serve_points_won_player1": "",
-    "total_serve_points_won_player2": "",
-    "returns_player1": "",
-    "returns_player2": "",
-    "returns_made_player1": "",
-    "returns_made_player2": "",
-    "1st_serve_return_points_won_player1": "",
-    "1st_serve_return_points_won_player2": "",
-    "2nd_serve_return_points_won_player1": "",
-    "2nd_serve_return_points_won_player2": "",
-    "total_return_points_won_player1": "",
-    "total_return_points_won_player2": "",
-    "break_points_won_player1": "",
-    "break_points_won_player2": "",
-    
-    
-}
+        stats_button.click()
 
-stat_keys = [
-    "aces_player1",
-    "aces_player2",
-    "double_faults_player1",
-    "double_faults_player2",
-    "1st_serve_percentage_player1",
-    "1st_serve_percentage_player2",
-    "1st_serve_points_won_player1",
-    "1st_serve_points_won_player2",
-    "2nd_serve_points_won_player1",
-    "2nd_serve_points_won_player2",
-    "total_serve_points_won_player1",
-    "total_serve_points_won_player2",
-    "returns_player1",
-    "returns_player2",
-    "returns_made_player1",
-    "returns_made_player2",
-    "1st_serve_return_points_won_player1",
-    "1st_serve_return_points_won_player2",
-    "2nd_serve_return_points_won_player1",
-    "2nd_serve_return_points_won_player2",
-    "total_return_points_won_player1",
-    "total_return_points_won_player2",
-    "break_points_won_player1",
-    "break_points_won_player2",
-]
+        # get the text info associated with the stats section 
+        stats_grid = WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="content"]/app-match-tracker/ion-content/div[3]/app-stats/ion-grid'))
+        )
 
-j = 0
+        raw_data = stats_grid.text 
 
-for i in range(0, len(relevant_lines), 3): 
-    if j < len(stat_keys):  
-        stats[stat_keys[j]] = relevant_lines[i].strip()  
-        j += 1
-    if j < len(stat_keys): 
-        stats[stat_keys[j]] = relevant_lines[i + 2].strip()
-        j += 1
+    except Exception as e:
+        print("Error occurred:", e)
 
-# convert dict to dataframe, drop irrelevant column 
-df_stats = pd.DataFrame([stats])
-df_stats = df_stats.drop(columns=["returns_player1", "returns_player2"])
+    finally:
+        driver.quit()
 
-# combine the two dataframes
-df_final = pd.concat([df_match, df_stats], ignore_index=False, axis = 1)
+    # Format the stats info
 
-# convert match completed info into a csv
-# this works for one match
-df_final.to_csv('~/Downloads/final_test7.csv', index=False)
+    player1_stats = {}
+    player2_stats = {}
+
+    lines = raw_data.strip().splitlines()
+
+    start_index = 33
+    relevant_lines = lines[start_index:]
+
+    stats = {
+        "aces_player1": "",
+        "aces_player2": "",
+        "double_faults_player1": "",
+        "double_faults_player2": "",
+        "1st_serve_percentage_player1": "",
+        "1st_serve_percentage_player2": "",
+        "1st_serve_points_won_player1": "",
+        "1st_serve_points_won_player2": "",
+        "2nd_serve_points_won_player1": "",
+        "2nd_serve_points_won_player2": "",
+        "total_serve_points_won_player1": "",
+        "total_serve_points_won_player2": "",
+        "returns_player1": "",
+        "returns_player2": "",
+        "returns_made_player1": "",
+        "returns_made_player2": "",
+        "1st_serve_return_points_won_player1": "",
+        "1st_serve_return_points_won_player2": "",
+        "2nd_serve_return_points_won_player1": "",
+        "2nd_serve_return_points_won_player2": "",
+        "total_return_points_won_player1": "",
+        "total_return_points_won_player2": "",
+        "break_points_won_player1": "",
+        "break_points_won_player2": "",
+        
+        
+    }
+
+    stat_keys = [
+        "aces_player1",
+        "aces_player2",
+        "double_faults_player1",
+        "double_faults_player2",
+        "1st_serve_percentage_player1",
+        "1st_serve_percentage_player2",
+        "1st_serve_points_won_player1",
+        "1st_serve_points_won_player2",
+        "2nd_serve_points_won_player1",
+        "2nd_serve_points_won_player2",
+        "total_serve_points_won_player1",
+        "total_serve_points_won_player2",
+        "returns_player1",
+        "returns_player2",
+        "returns_made_player1",
+        "returns_made_player2",
+        "1st_serve_return_points_won_player1",
+        "1st_serve_return_points_won_player2",
+        "2nd_serve_return_points_won_player1",
+        "2nd_serve_return_points_won_player2",
+        "total_return_points_won_player1",
+        "total_return_points_won_player2",
+        "break_points_won_player1",
+        "break_points_won_player2",
+    ]
+
+    j = 0
+
+    for i in range(0, len(relevant_lines), 3): 
+        if j < len(stat_keys):  
+            stats[stat_keys[j]] = relevant_lines[i].strip()  
+            j += 1
+        if j < len(stat_keys): 
+            stats[stat_keys[j]] = relevant_lines[i + 2].strip()
+            j += 1
+
+    # convert dict to dataframe, drop irrelevant column 
+    df_stats = pd.DataFrame([stats])
+    df_stats = df_stats.drop(columns=["returns_player1", "returns_player2"])
+
+    # combine the two dataframes
+    df_final = pd.concat([df_match, df_stats], ignore_index=False, axis = 1)
+
+    # convert match completed info into a csv
+    # this works for one match
+    df_final.to_csv('~/Downloads/final_test7.csv', index=False)
+
+    # goals:
+
+    # right now it only prints info for one match, but maybe make it so it can run a for loop and run a set of collected links
+    # let this literally roam any tournament link and grab all UCLA player associated matches
+    # doubles script
 
 
 
